@@ -33,4 +33,4 @@ We decided to set-up and maintain our own server becasue
 ## Why use this repo
 - This repo will hold all the important and relevant details about our XMPP service
 - Users can use the 'issues' page to report bugs and/or request new features
-- Detailson how to set-up and start using this service will be updated here too.
+- Details on how to set-up and start using this service will be updated here too.
