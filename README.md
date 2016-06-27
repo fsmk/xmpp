@@ -30,4 +30,6 @@ We decided to set-up and maintain our own server becasue
 - Conversations (Android)
 - Pidgin (Linux) 
 
-#### For instructions on how to go about setting up and using this service look at the repo for pdf files.
+## Why use this repo
+- This repo will hold all the important and relevant details about our XMPP srvice
+- Users can use the 'issues' page to report bugs and/or request new features
