@@ -6,7 +6,7 @@ The server software used for hosting the XMPP service is [Prosody](https://proso
 ## Why XMPP ?
 We decided to use XMPP because it's open source and free. It is in line with the values and principles that we here at FSMK stand for. As the saying goes "Follow what you preach!"
 
-## Why our own server instead of using some already existing server ?
+## Why our own server instead of using some existing server ?
 We decided to set-up and maintain our own server becasue 
 - It's way cooler to have your own hostname
 - It gives us the flexibility to customise the server as per our own needs.
@@ -29,3 +29,5 @@ We decided to set-up and maintain our own server becasue
 # Recommended clients
 - Conversations (Android)
 - Pidgin (Linux) 
+
+# For instructions on how to go about setting up and using this service look at the repo for pdf files.
