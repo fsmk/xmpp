@@ -24,10 +24,10 @@ We decided to set-up and maintain our own server becasue
 - Shijil TV <shijil@fsmk.org>
 - Vikram Vincent <vincentvikram@fsmk.org>
 
-## More admin(s) may be added as per request
+### More admin(s) may be added as per request
 
 # Recommended clients
 - Conversations (Android)
 - Pidgin (Linux) 
 
-# For instructions on how to go about setting up and using this service look at the repo for pdf files.
+#### For instructions on how to go about setting up and using this service look at the repo for pdf files.
