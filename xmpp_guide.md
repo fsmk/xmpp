@@ -21,9 +21,9 @@ Account. Below screen appears. ![image004](https://github.com/fsmk/xmpp/blob/soh
 
 7. Go back to main screen->Choose Add ![image008](https://github.com/fsmk/xmpp/blob/sohom154-patch-1/assets/image008.jpg)  option.
 
-8. Select Conferences tab and choose ![image009](https://github.com/fsmk/xmpp/blob/sohom154-patch-1/assets/image009.png) (join). This screen should appear. ![image011](https://github.com/fsmk/xmpp/blob/sohom154-patch-1/assets/image011.jpg)
+8. Select Conferences tab and choose ![image009](https://github.com/fsmk/xmpp/blob/sohom154-patch-1/assets/image009.png) (join). This screen should appear.  ![image011](https://github.com/fsmk/xmpp/blob/sohom154-patch-1/assets/image011.jpg)
 
-9. Below popup appears ![image012](https://github.com/fsmk/xmpp/blob/sohom154-patch-1/assets/image012.png)
+9. Below popup appears ! [image012](https://github.com/fsmk/xmpp/blob/sohom154-patch-1/assets/image012.png)
 
 10. Choose your account under `Your Account` and type `talk@conference.fsmk.org` under `Conference address` box.
 
