@@ -16,7 +16,6 @@ We decided to set-up and maintain our own server becasue
 - It allows anyone to create an account
 - We have a Let's Encypt certificate for our host
 - encryption is priority
-- Group creation si disabled by default. Only admins can create groups.
 - Chats sent from multiple clients syncs on both/all of the devices. 
 
 # Current Admins
@@ -28,8 +27,8 @@ We decided to set-up and maintain our own server becasue
 
 # Recommended clients
 - Conversations (Android)
-- Pidgin (Linux) 
-
+- Pidgin (Linux) ( this client does not support encryption)
+- [Converse.js](https://conversejs.org/) (web client)
 ## Why use this repo
 - This repo will hold all the important and relevant details about our XMPP service
 - Users can use the 'issues' page to report bugs and/or request new features
