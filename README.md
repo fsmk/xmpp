@@ -29,6 +29,7 @@ We decided to set-up and maintain our own server becasue
 - Conversations (Android)
 - Pidgin (Linux) ( this client does not support encryption)
 - [Converse.js](https://conversejs.org/) (web client)
+
 ## Why use this repo
 - This repo will hold all the important and relevant details about our XMPP service
 - Users can use the 'issues' page to report bugs and/or request new features
