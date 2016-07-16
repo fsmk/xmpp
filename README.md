@@ -25,7 +25,9 @@ We decided to set-up and maintain our own server becasue
 
 ### More admin(s) may be added as per request
 
+
 ![image002](https://cloud.githubusercontent.com/assets/11849320/16895375/d608981e-4b91-11e6-8173-eaad68a5a1bc.jpg)
+![image003](https://github.com/fsmk/xmpp/blob/sohom154-patch-1/assets/image004.jpg)
 
 
 # Recommended clients
