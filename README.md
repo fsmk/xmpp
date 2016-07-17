@@ -49,15 +49,15 @@ __Download it from [F-Droid]((https://f-droid.org/repository/browse/?fdid=eu.sia
 
 > 2. Install it. (Duh! again!)
 
-> 3. From home screen go to Manage Account (Click ![image002](https://github.com/fsmk/xmpp/blob/sohom154-patch-1/assets/image002.jpg) from top right menu   ) -> Add New 
+> 3. From home screen go to Manage Account (Click ![image002](https://github.com/fsmk/xmpp/blob/master/assets/image002.jpg) from top right menu   ) -> Add New 
 Account. Below screen appears.<br>
-![image004](https://github.com/fsmk/xmpp/blob/sohom154-patch-1/assets/image004.jpg)
+![image004](assets/image004.jpg)
 
 > 4. Under Jabber ID  provide desired user name in below format: `<user_name>@fsmk.org` if you do not have an Jabber account or if you wish to use an `fsmk.org` host. 
 
 > 5. Next choose a strong password (in case of new account) or enter the password of your Jabber account.
 
-> 6. Check “Register new account on Server” (If you are creating a new account, else leave it unchecked). Once account has created it appears as shown below. <br>![image006](https://github.com/fsmk/xmpp/blob/sohom154-patch-1/assets/image006.jpg)
+> 6. Check “Register new account on Server” (If you are creating a new account, else leave it unchecked). Once account has created it appears as shown below. <br>![image006](https://github.com/fsmk/xmpp/blob/master/assets/image006.jpg)
 
 > 7. Go back to main screen->Choose Add ![image008](https://github.com/fsmk/xmpp/blob/sohom154-patch-1/assets/image008.jpg)  option.
 
