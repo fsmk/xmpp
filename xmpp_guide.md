@@ -26,7 +26,7 @@ Account. Below screen appears.
 > ![image011](https://github.com/fsmk/xmpp/blob/sohom154-patch-1/assets/image011.jpg)
 
 > 9. Below popup appears:
-![image012](https://github.com/fsmk/xmpp/blob/sohom154-patch-1/assets/image012.png)
+<br>![image012](https://github.com/fsmk/xmpp/blob/sohom154-patch-1/assets/image012.png)
 
 > 10. Choose your account under `Your Account` and type `talk@conference.fsmk.org` under `Conference address` box.
 
