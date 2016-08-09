@@ -45,7 +45,7 @@ __Download it from [F-Droid]((https://f-droid.org/repository/browse/?fdid=eu.sia
 
 > __Initial setup for conversations.__
 
-> 1. Download it. (Duh!)
+> 1. [Download it](https://f-droid.org/repo/eu.siacs.conversations_165.apk). (Duh!)
 
 > 2. Install it. (Duh! again!)
 
