@@ -41,7 +41,7 @@ We decided to set-up and maintain our own server becasue
 ___
 
 ### __For mobile platform we recommend using [Conversations](https://conversations.im/).__
-__Download it from [F-Droid]((https://f-droid.org/repository/browse/?fdid=eu.siacs.conversations))__
+__Download it from [F-Droid](https://f-droid.org/repository/browse/?fdid=eu.siacs.conversations)__
 
 > __Initial setup for conversations.__
 
